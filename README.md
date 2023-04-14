@@ -1,5 +1,5 @@
 ### Hi there 👋
-## I'm Diego
+#### I'm Diego
  
 - 🍒 Front-End Developer and **soon** Back-End... passionate about solving real life problems with code! 
 
