@@ -14,7 +14,7 @@
 
 
 > 🛠 Tech Stack
-> 💻   Javascript - 🌐   HTML | CSS | ReactJS | MySQL | MongoDB   🔧   GitHub | VS Code
+>> 💻   Javascript - 🌐   HTML | CSS | ReactJS | MySQL | MongoDB   🔧   GitHub | VS Code
 
 📫 Connect with Me:
 **[linkedIn](https://www.linkedin.com/in/diego-jose-navarro-ruiz-879170189/)** 👨🏻‍💻
