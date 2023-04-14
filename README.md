@@ -17,5 +17,7 @@
 >> 💻   Javascript - 🌐   HTML | CSS | ReactJS  🔧   GitHub | VS Code
 
 📫 Connect with Me:
+
 **[linkedIn](https://www.linkedin.com/in/diego-jose-navarro-ruiz-879170189/)** 👨🏻‍💻
+
 Write Me an *[Email](mailto:diegojose150@gmail.com)* 💌
