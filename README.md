@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently working on continuous learning. (We know being a coder means being a student for life!)
 
-- 📍 I’m looking to collaborate on open source projects and open to new job opportunities
+- 🍋 I’m looking to collaborate on open source projects and open to new job opportunities.
 
 
 
