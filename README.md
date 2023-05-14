@@ -18,6 +18,6 @@
 
 📫 Connect with Me:
 
-**[LinkedIn](https://www.linkedin.com/in/diego-jose-navarro-ruiz-879170189/)** 👨🏻‍💻
+**[LinkedIn](https://www.linkedin.com/in/diegonava150/)** 👨🏻‍💻
 
 Write me an *[Email](mailto:diegojose150@gmail.com)* 💌
