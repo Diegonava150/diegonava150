@@ -12,7 +12,6 @@
 - 🍋 I’m looking to collaborate on open source projects and open to new job opportunities.
 
 
-
 > 🛠 Tech Stack
 >> 💻   Javascript - 🌐   HTML | CSS | ReactJS  🔧   GitHub | VS Code
 
