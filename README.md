@@ -1,4 +1,3 @@
-<p align="right"><a href="https://app.daily.dev/diegonava150"><img src="https://github.com/Diegonava150/diegonava150/blob/main/devcard.svg" width="300" alt="Diego Navarro's Dev Card"/></a><p/>
 ### Hi there 👋
 #### I'm Diego 
  
@@ -22,3 +21,5 @@
 **[LinkedIn](https://www.linkedin.com/in/diegonava150/)** 👨🏻‍💻
 
 Write me an *[Email](mailto:diegojose150@gmail.com)* 💌
+
+<p align="right"><a href="https://app.daily.dev/diegonava150"><img src="https://github.com/Diegonava150/diegonava150/blob/main/devcard.svg" width="300" alt="Diego Navarro's Dev Card"/></a><p/>
