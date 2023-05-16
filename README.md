@@ -1,7 +1,7 @@
 ### Hi there 👋
 #### I'm Diego  
  
-- 🍒 Front-End Developer and **soon** Back-End... passionate about solving real life problems with code! <p display="flex"><a href="https://app.daily.dev/diegonava150"><img src="https://github.com/Diegonava150/diegonava150/blob/main/devcard.svg" width="200" alt="Diego Navarro's Dev Card"/></a><p/>
+- 🍒 Front-End Developer and **soon** Back-End... passionate about solving real life problems with code!
 
 - 👀 I’m interested in using data for good by building front-end and back-end (Soon™) projects that meet the daily needs of users.
 
@@ -22,4 +22,4 @@
 
 Write me an *[Email](mailto:diegojose150@gmail.com)* 💌
 
-
+<a href="https://app.daily.dev/diegonava150"><img src="https://github.com/Diegonava150/diegonava150/blob/main/devcard.svg" width="400" alt="Diego Navarro's Dev Card"/></a>
