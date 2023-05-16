@@ -1,5 +1,5 @@
 ### Hi there 👋
-#### I'm Diego
+#### I'm Diego <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/Diegonava150/diegonava150/blob/main/devcard.svg" width="400" alt="Diego Navarro's Dev Card"/></a>
  
 - 🍒 Front-End Developer and **soon** Back-End... passionate about solving real life problems with code! 
 
