@@ -1,7 +1,7 @@
 ### Hi there 👋
 #### I'm Diego  
  
-- 🍒 Front-End Developer and **soon** Back-End... passionate about solving real life problems with code!
+- 🍒 Junior Front-End Developer, passionate about solving real life problems with code!
 
 - 👀 I’m interested in using data for good by building front-end and back-end (Soon™) projects that meet the daily needs of users.
 
