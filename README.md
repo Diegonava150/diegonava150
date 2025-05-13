@@ -1,11 +1,11 @@
 ### Hi there 👋
 #### I'm Diego  
  
-- 🍒 Junior Front-End Developer, passionate about solving real life problems with code!
+- 🍒 QA Automation Engineer, passionate about solving real life problems with code!
 
-- 👀 I’m interested in using data for good by building front-end and back-end (Soon™) projects that meet the daily needs of users.
+- 👀 I’m interested in using data for good by building Automation Frameworks projects that meet the daily needs of users.
 
-- 🍎 I have a passion for Frontend Development specifically.
+- 🍎 I have a passion for Automation Development specifically.
 
 - 🌱 I’m currently working on continuous learning. (We know being a coder means being a student for life!)
 
