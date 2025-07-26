@@ -9,16 +9,11 @@
 
 - 🌱 I’m currently working on continuous learning. (We know being a coder means being a student for life!)
 
-- 🍋 I’m looking to collaborate on open source projects and open to new job opportunities.
-
-
 > 🛠 Tech Stack
->> 💻   Javascript - 🌐   HTML | CSS | ReactJS  🔧   GitHub | VS Code
+>> 💻   PlayWright - Appium - Cucumber - Java - TypeScript - Python
 
 📫 Connect with Me:
 
 **[LinkedIn](https://www.linkedin.com/in/diegonava150/)** 👨🏻‍💻
 
 Write me an *[Email](mailto:diegojose150@gmail.com)* 💌
-
-<a href="https://app.daily.dev/diegonava150"><img src="https://github.com/Diegonava150/diegonava150/blob/main/devcard.svg" width="400" alt="Diego Navarro's Dev Card"/></a>
